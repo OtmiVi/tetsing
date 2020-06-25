@@ -1,0 +1,24 @@
+.tests{
+	background: #c4dbff;
+	box-shadow: 0 0 10px #a8a8a8; 
+	border-radius: 15px;
+	padding: 10px;
+	color:#5c5c5c;
+}
+a{
+	text-decoration: none;
+}
+a:visited{
+	color:#5c5c5c;
+}
+a:hover{
+	color: #fff240;
+}
+ul{
+	padding-left: 20px;
+	font-size: 26px;
+}
+h3{
+	font-size: 42px;
+	margin: 0px;
+}

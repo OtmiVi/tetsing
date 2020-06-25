@@ -1,0 +1,48 @@
+.questions{
+	background: #c4dbff;
+	box-shadow: 0 0 10px #a8a8a8; 
+	border-radius: 15px;
+	padding: 10px;
+	color:#5c5c5c;;
+	
+}
+.none{
+	display: none;
+}
+button{
+	padding: 8px;
+	border-radius: 15px;
+	border: 2px solid #b3b3b3;
+	box-shadow: 0 0 5px #a8a8a8; 
+}
+button:hover{
+	background: #b3b3b3;
+}
+.error{
+	color:#ff7070;
+	font-size: 26px;
+}
+
+.mistake{
+	background: #ffc4c4;
+	box-shadow: 0 0 10px #a8a8a8; 
+	border-radius: 15px;
+	padding: 12px;
+	margin: 8px;
+}
+.ok{
+	background: #9effb3;
+	box-shadow: 0 0 10px #a8a8a8; 
+	border-radius: 15px;
+	padding: 12px;
+	margin: 8px;
+}
+ul{
+	padding-left: 20px;
+}
+.true{
+	color: #009921;
+}
+.false{
+	color:#ff2d26;
+}
